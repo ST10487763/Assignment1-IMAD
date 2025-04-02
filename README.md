@@ -1,7 +1,7 @@
 "# Assignment1-IMAD" 
 
 // Description for my apllication: 
-The purpose of my application "HerasHourlyMeal" is to provide the user with a simplified interface to help plan hourly meals an provide options/suggestions. This application consists of a radio group, five radio buttons to display the multiple meal options, a textview to display the food sugesstions, a compute button to conpute the answer based on the option selected and a clear button to clear answers after use. This feature allows for quick and easy user for the user. When a radiobutton is not selected an error message will therefore be displayed to the user.
+The purpose of my application "HerasHourlyMeal" is to provide the user with a simplified interface to help plan hourly meals an provide options/suggestions. This application consists of a radio group, five radio buttons to display the multiple meal options, a textview to display the food sugesstions, a compute button to compute the answer based on the option selected and a clear button to clear answers after use. This feature allows for quick and easy user for the user. When a radiobutton is not selected an error message will therefore be displayed to the user.
 
 // Youtube Video link:
 https://youtu.be/068NaVezeCE
